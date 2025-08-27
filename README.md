@@ -6,7 +6,7 @@ Saya seorang Mahasiswa dari Universitas Teknologi Bandung.<br>
 
 Saya lulus SMK pada tahun 2024.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/raka-putra-ramadhan)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:/www.linkedin.com/in/raka-putra-ramadhan)ku ya.
 
 <p align="left">
 <a href="https://github.com/Buszs/">
