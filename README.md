@@ -25,7 +25,7 @@
 
 | 🧙 Class | Full-Stack Developer / UI Alchemist |
 |:--|:--|
-| 🏰 Guild | Information Systems — Student |
+| 🏰 Guild | Informatics Engineering — Student |
 | 📜 Current Quest | Building **iChoose Care** — a Laravel + MySQL service-shop management system |
 | 🗺️ Terrain | Web · Mobile · Data · Networking |
 | ✨ Passive Skill | Turning plain UIs into pixel-perfect, aesthetic ones |
