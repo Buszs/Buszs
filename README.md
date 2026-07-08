@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ============ BANNER (custom asset — see notes below) ============ -->
-<img src="./assets/banner.gif" width="100%" alt="banner — pixel art isekai world"/>
-
 <!-- ============ PIXEL TITLE ============ -->
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=34&duration=4000&pause=1500&color=B39DDB&center=true&vCenter=true&width=500&height=70&lines=SHOYO" alt="Shoyo"/>
 
@@ -38,8 +35,6 @@
 
 <br/>
 
-<img src="./assets/divider.png" width="100%" alt="pixel divider"/>
-
 ░▒▓█ **ARSENAL** █▓▒░
 
 <div align="center">
@@ -54,18 +49,16 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=7DD3C0&text_color=C9D1D9" alt="github stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9D1D9&langs_count=8" alt="top languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Buszs&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=7DD3C0&text_color=C9D1D9" alt="github stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buszs&layout=compact&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9D1D9&langs_count=8" alt="top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=B39DDB&fire=F4D35E&currStreakLabel=B39DDB&sideLabels=7DD3C0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=8B949E&border=30363D" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buszs&hide_border=true&background=0D1117&ring=B39DDB&fire=F4D35E&currStreakLabel=B39DDB&sideLabels=7DD3C0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=8B949E&border=30363D" alt="streak stats"/>
 
 </div>
 
 <br/>
-
-<img src="./assets/divider.png" width="100%" alt="pixel divider"/>
 
 ░▒▓█ **QUEST LOG** █▓▒░
 
@@ -144,15 +137,14 @@ An Android app with a recursive-descent expression parser, built in Kotlin.
 
 <br/>
 
-<img src="./assets/divider.png" width="100%" alt="pixel divider"/>
 
 ░▒▓█ **THE MAP GROWS** █▓▒░
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buszs/Buszs/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Buszs/Buszs/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
