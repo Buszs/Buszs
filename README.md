@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ BANNER (custom asset — see notes below) ============ -->
-<img src="./assets/banner.png" width="100%" alt="banner — pixel art isekai world"/>
+<img src="./assets/banner.gif" width="100%" alt="banner — pixel art isekai world"/>
 
 <!-- ============ PIXEL TITLE ============ -->
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=34&duration=4000&pause=1500&color=B39DDB&center=true&vCenter=true&width=500&height=70&lines=SHOYO" alt="Shoyo"/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=WANDERERS%20WHO%20PASSED%20BY&color=b39ddb&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Buszs&label=WANDERERS%20WHO%20PASSED%20BY&color=b39ddb&style=flat-square)
 
 </div>
 
@@ -172,7 +172,7 @@ An Android app with a recursive-descent expression parser, built in Kotlin.
 <br/>
 
 <div align="center">
-<img src="./assets/footer.png" width="100%" alt="footer — pixel art nightfall camp"/>
+<img src="./assets/footer.gif" width="100%" alt="footer — pixel art nightfall camp"/>
 
 <sub>Thanks for stopping by the campfire. Safe travels. ✦</sub>
 </div>
