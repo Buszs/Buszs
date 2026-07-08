@@ -155,9 +155,8 @@ An Android app with a recursive-descent expression parser, built in Kotlin.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-B39DDB?style=flat-square&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7DD3C0?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Email-F4D35E?style=flat-square&logo=gmail&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-B39DDB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/raka_putra05/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7DD3C0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakak)
 
 </div>
 
